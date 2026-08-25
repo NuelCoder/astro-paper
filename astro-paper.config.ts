@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://your-portfolio-url.com/", // We will update this when you deploy
+    url: "https://iseoluwa-badejo.vercel.app/", // <-- Your new professional URL goes here
     title: "Iseoluwa Badejo | Backend Engineer",
     description: "Backend Developer specializing in Java, Spring Boot, and event-driven architectures.",
     author: "Iseoluwa Badejo Emmanuel",
