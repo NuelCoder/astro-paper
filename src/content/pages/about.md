@@ -1,37 +1,34 @@
 ---
+layout: ../layouts/AboutLayout.astro
 title: "About"
-description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm Iseoluwa Badejo Emmanuel, a **Backend Software Engineer** and community builder based in Ibadan, Nigeria.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+I have completed my academic coursework for a **First Class Computer Science degree** at Precious Cornerstone University (PCU), anticipating my official graduation in November 2026. During my studies, I was recognized as a Two-Time Dean's Roll of Honour student, and my academic journey has always been deeply intertwined with hands-on, enterprise-level software engineering.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## Engineering Background
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+My technical expertise lies in building robust server-side applications, designing event-driven architectures, and integrating AI models into modern systems.
 
-## Features
+During my time as a **Backend Developer Intern at Moniepoint Group**, I worked in a professional engineering environment to build and integrate REST APIs using Java. My work involved utilizing Apache Kafka for event-driven communication, optimizing backend performance with Redis, and writing comprehensive unit tests. I am passionate about writing clean, scalable code and architecting secure systems that prioritize data sovereignty and privacy.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Leadership & Community
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Writing good code is only half the equation; I believe in lifting the tech community around me and fostering innovation on campus.
 
-and so much more.
+* **Vice President, PCU (2025/2026):** I served the student body by coordinating university-wide initiatives, contributing to student leadership, and supporting organizational activities within the university community.
+* **Campus Lead, ATC Africa (May 2026 – Present):** I spearhead technology initiatives to foster a community of student developers. Recently, I organized and moderated the *"Concept to Code: The Vibe Coding Era"* panel, bringing industry speakers to campus for live technical demonstrations. I also authored and executed partnership proposals to secure sponsorships for NACOS Week, focusing on inclusive tech innovation.
 
-## Show your support
+## The Tech Stack
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+* **Languages:** Java, Python, JavaScript
+* **Frameworks & Architecture:** Spring Boot, Node.js, REST APIs, Event-Driven Architecture
+* **Infrastructure & Data:** PostgreSQL, MySQL, Redis, Apache Kafka, Docker
+* **AI & Machine Learning:** AI Integrations, Local LLM Deployment, Ollama, Google Colab
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+When I'm not configuring a Spring Boot application or optimizing a Kafka stream, you'll likely find me organizing tech events or exploring new ways to safely integrate AI into backend systems.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+---
 
-Kyay zuu! 🙏🏼
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/iseoluwa-badejo-340421321), check out my code on [GitHub](https://github.com/NuelCoder), or shoot me an [Email](mailto:badejoiseoluwa@gmail.com).
