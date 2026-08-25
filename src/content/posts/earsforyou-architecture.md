@@ -1,7 +1,7 @@
 ---
 title: "Architecting EarsForYou: A Privacy-First, Event-Driven Support System"
 author: Iseoluwa Badejo Emmanuel
-pubDatetime: 2026-08-25T08:00:00Z
+pubDatetime: 2026-08-25T00:00:00Z
 slug: earsforyou-architecture
 featured: true
 draft: false
